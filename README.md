@@ -4,7 +4,6 @@
  
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
     <img
       src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
       alt="css"
@@ -23,8 +22,6 @@
       width="40"
       height="40"
     />
- 
-
 </p>
 
  

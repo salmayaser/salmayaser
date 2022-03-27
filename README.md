@@ -29,7 +29,7 @@
       height="40"
     />
    <img
-      src="vectorlogo.zone/logos/angular/angular-icon.svg"
+      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
       alt="angular"
       width="40"
       height="40"

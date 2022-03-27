@@ -22,6 +22,31 @@
       width="40"
       height="40"
     />
+   <img
+      src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+   <img
+      src="vectorlogo.zone/logos/angular/angular-icon.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+ 
 </p>
 
  

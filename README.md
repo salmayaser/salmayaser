@@ -16,6 +16,12 @@
  
  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+     <img
+      src="https://svgrepo.com/show/303205/html-5-logo.svg"
+      alt="HTML"
+      width="40"
+      height="40"
+    />
     <img
       src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
       alt="css"

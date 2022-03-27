@@ -2,8 +2,8 @@
 
  this is salma, a self-motivated frontend developer.
  
- <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+ <h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <img
       src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
       alt="css"

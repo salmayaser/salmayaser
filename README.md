@@ -2,5 +2,31 @@
 
  this is salma, a self-motivated frontend developer.
  
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+    <img
+      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+      alt="css"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+      alt="ts"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+      alt="js"
+      width="40"
+      height="40"
+    />
+ 
+
+</p>
+
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmayaser&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

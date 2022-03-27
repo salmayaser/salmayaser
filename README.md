@@ -97,6 +97,8 @@
  
  
 </p>
-
+<div align="center">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmayaser)](https://git.io/streak-stats)
+ </div>
  
 

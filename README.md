@@ -88,13 +88,7 @@
       width="60"
       height="50"
     />
-     <img
-      src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"
-      alt="nest"
-      width="60"
-      height="50"
-    />
- 
+
  
 </p>
 

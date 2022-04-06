@@ -76,12 +76,7 @@
       width="40"
       height="40"
     />
-    <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="nodejs"
-      width="60"
-      height="50"
-    />
+  
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql"

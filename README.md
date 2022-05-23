@@ -79,8 +79,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql"
-      width="60"
-      height="50"
+      width="40"
+      height="40"
     />
 
  

@@ -4,10 +4,7 @@
  <div align="center">
  <h3>Hi there 👋,</h3>
  This is salma, a self-motivated frontend developer &#128187;.
- <p>
-  <a href="https://www.linkedin.com/in/salma-yasser-566b7b198/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="20" /></a>
- </p>
+
 </div>
 
 
